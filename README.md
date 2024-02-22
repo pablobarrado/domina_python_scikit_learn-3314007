@@ -42,7 +42,7 @@ Las directorios están estructuradas para corresponder a los vídeos del curso. 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-python-scikit-learn
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQHg21EVGXtkCQ/learning-public-crop_675_1200/0/1708518857043?e=2147483647&v=beta&t=LpRG2lQS-nrOl_mN3RndZTTo26s-HthTy5DSi_e0lxs
 
 [1]: # (End of ES-Instruction ###############################################################################################)
