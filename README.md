@@ -48,28 +48,31 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 [1]: # (End of ES-Instruction ###############################################################################################)
 
 
+### Informacion básica Libreria 
+
 ***  Informacion básica Libreria scikit-learn *** 
 Características principales:
-Modelos de aprendizaje supervisado: regresión (lineal, logística), clasificación (SVM, KNN, árboles de decisión, Random Forest, etc.).
 
-Modelos no supervisados: clustering (K-means, DBSCAN), reducción de dimensionalidad (PCA, t-SNE).
+	Modelos de aprendizaje supervisado: regresión (lineal, logística), clasificación (SVM, KNN, árboles de decisión, Random Forest, etc.).
 
-Preprocesamiento de datos: escalado, codificación de variables categóricas, imputación de valores faltantes, selección de características.
+	Modelos no supervisados: clustering (K-means, DBSCAN), reducción de dimensionalidad (PCA, t-SNE).
 
-Evaluación de modelos: validación cruzada, métricas de rendimiento (precisión, recall, F1-score, ROC).
+	Preprocesamiento de datos: escalado, codificación de variables categóricas, imputación de valores faltantes, selección de características.
 
-Pipelines: para encadenar transformaciones y modelos en flujos de trabajo reproducibles.
+	Evaluación de modelos: validación cruzada, métricas de rendimiento (precisión, recall, F1-score, ROC).
 
-Carga de datasets de prueba: incluye datasets integrados como Iris, dígitos, Boston (obsoleto), etc.
+	Pipelines: para encadenar transformaciones y modelos en flujos de trabajo reproducibles.
+
+	Carga de datasets de prueba: incluye datasets integrados como Iris, dígitos, Boston (obsoleto), etc.
 
 Ventajas:
-API coherente y bien documentada.
 
-Muy buena integración con el ecosistema científico de Python.
+	API coherente y bien documentada.
+	Muy buena integración con el ecosistema científico de Python.
 
-Ideal para prototipado rápido y aplicaciones de producción ligeras.
+	Ideal para prototipado rápido y aplicaciones de producción ligeras.
 
 Limitaciones:
-No está diseñada para deep learning (para eso se usan TensorFlow o PyTorch).
 
-No está optimizada para datasets extremadamente grandes (usa procesamiento en memoria).
+	No está diseñada para deep learning (para eso se usan TensorFlow o PyTorch).
+	No está optimizada para datasets extremadamente grandes (usa procesamiento en memoria).
