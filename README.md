@@ -46,3 +46,30 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQHg21EVGXtkCQ/learning-public-crop_675_1200/0/1708518857043?e=2147483647&v=beta&t=LpRG2lQS-nrOl_mN3RndZTTo26s-HthTy5DSi_e0lxs
 
 [1]: # (End of ES-Instruction ###############################################################################################)
+
+
+***  Informacion básica Libreria scikit-learn *** 
+Características principales:
+Modelos de aprendizaje supervisado: regresión (lineal, logística), clasificación (SVM, KNN, árboles de decisión, Random Forest, etc.).
+
+Modelos no supervisados: clustering (K-means, DBSCAN), reducción de dimensionalidad (PCA, t-SNE).
+
+Preprocesamiento de datos: escalado, codificación de variables categóricas, imputación de valores faltantes, selección de características.
+
+Evaluación de modelos: validación cruzada, métricas de rendimiento (precisión, recall, F1-score, ROC).
+
+Pipelines: para encadenar transformaciones y modelos en flujos de trabajo reproducibles.
+
+Carga de datasets de prueba: incluye datasets integrados como Iris, dígitos, Boston (obsoleto), etc.
+
+Ventajas:
+API coherente y bien documentada.
+
+Muy buena integración con el ecosistema científico de Python.
+
+Ideal para prototipado rápido y aplicaciones de producción ligeras.
+
+Limitaciones:
+No está diseñada para deep learning (para eso se usan TensorFlow o PyTorch).
+
+No está optimizada para datasets extremadamente grandes (usa procesamiento en memoria).
